@@ -7,4 +7,4 @@ Incremental Game, yaitu sebuah game dimana player bertujuan untuk mengupgrade se
 3. Use your android emulator and start the game.
 
 ## File Download
-GDrive : https://drive.google.com/file/d/1-d4ARaMfYzWLziLn9Mmb4cM0pPgUO9U6/view?usp=sharing
+GDrive : https://drive.google.com/drive/folders/1TNDH7Iq-sFRTD7hsEeK1AUJ18Hwf50IY?usp=sharing
